@@ -1,0 +1,60 @@
+- year: Year 1
+  subjects:
+    - title: Architecture
+      link: /downloads/Architecture.pdf
+    - title: Databases
+    - title: Discrete Mathematics
+      link: /downloads/Discrete Maths.pdf
+    - title: Hardware
+      link: /downloads/Hardware.pdf
+    - title: Logic
+    - title: Mathematical Methods
+      link: /downloads/Mathematical Methods.pdf
+    - title: Programming I (Haskell)
+    - title: Programming II (Java)
+    - title: Programming III (C)
+    - title: Reasoning about Programs
+- year: Year 2
+  subjects:
+    - title: Algorithms
+    - title: Artificial Intelligence
+      link: /downloads/Introduction to Artificial Intelligence.pdf
+    - title: Compilers
+    - title: Models of Computation
+      link: /downloads/Model of Computation.pdf
+    - title: Network and Communications
+      link: /downloads/Network and Communication.pdf
+    - title: Operating Systems
+      link: /downloads/Operating System.pdf
+    - title: Probability and Statistics
+    - title: Software Engineering Design
+      link: /downloads/Software Engineering.pdf
+- year: Year 3
+  subjects:
+    - title: Computer Vision
+      link: /downloads/Computer Vision.pdf
+    - title: Graphics
+      link: /downloads/Graphics.pdf
+    - title: Information and Coding Theory
+      link: /downloads/Information and Coding Theory.pdf
+    - title: Logic-Based Learning
+      link: /downloads/Logic Based Learning.pdf
+    - title: Machine Learning
+      link: /downloads/Introduction to Machine Learning.pdf
+    - title: Network and Web Security
+      link: /downloads/Network and Web Security.pdf
+    - title: Robotics
+- year: Year 4
+  subjects:
+    - title: Concurrency
+      link: /downloads/Concurrency.pdf
+    - title: Machine Arguing
+      link: /downloads/Machine Arguing.pdf
+    - title: Mathematics for Machine Learning
+      link: /downloads/Mathematics For Machine Learning.pdf
+    - title: Reinforcement Learning
+      link: /downloads/Reinforcement Learning.pdf
+    - title: Session Types
+      link: /downloads/Session Types.pdf
+
+

@@ -1,0 +1,16 @@
+.download-list {
+  @extend .list-navigation;
+
+  li {
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    a:hover {
+      cursor: initial;
+      background-color: white;
+      color: #196F3D;
+    }
+  }
+}
