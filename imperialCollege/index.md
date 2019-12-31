@@ -8,8 +8,8 @@ layout: default
 		<ul>
 			{% for subject in item.subjects %}
 				<li>
-					<a>{{ subject.title }}</a>
-					{% if subject.link %}<a href="{{ site.url }}{{ subject.link }}" target="_blank">Download</a>{% endif %}
+					<p>{{ subject.title }}</p>
+					{% if subject.link %}<a href="{{ site.url }}{{ subject.link }}" target="_blank"><i class="fa fa-download"></i></a>{% endif %}
 				</li>
 			{% endfor %}
 		</ul>

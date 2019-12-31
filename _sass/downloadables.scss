@@ -7,10 +7,14 @@
     justify-content: space-between;
     align-items: center;
 
+    p {
+      margin: 0;
+      padding: 8px 10px;
+    }
+
     a:hover {
-      cursor: initial;
       background-color: white;
-      color: #196F3D;
+      color: #1E6BB8;
     }
   }
 }

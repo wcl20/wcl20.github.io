@@ -5,11 +5,11 @@
 
   .nav {
     flex: 50%;
-    height: 300px;
+    height: 25vh;
     margin: 20px !important;
     border-radius: 25px;
     text-align: center;
-    line-height: 300px;
+    line-height: 25vh;
     color: white;
     background: radial-gradient(#159957, #155799);
     -webkit-transform: scale(1);
@@ -27,6 +27,7 @@
 }
 
 .list-navigation {
+
   ul {
     list-style-type: none;
     margin: 0;
@@ -36,7 +37,7 @@
   }
 
   li {
-    border-bottom: 1px solid #196F3D;
+    border-bottom: 1px solid #606C71;
 
     &:last-child {
       border-bottom: none;
@@ -45,14 +46,19 @@
     a {
       display: block;
       padding: 8px 10px;
-      color: #196F3D;
       text-decoration: none;
 
       &:hover {
         cursor: pointer;
-        background-color: #159957;
+        background-color: #1E6BB8;
         color: white;
       }
     }
   }
+}
+
+.page-navigation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }

@@ -1,8 +1,8 @@
 - title: Markov Decision Process
-  link: /imperialCollege.html
+  link: /reinforcementLearning/markovDecisionProcess.html
 - title: Dynammic Programming
-  link: /reinforcementLearning/index.html
+  link: /reinforcementLearning/dynamicProgramming.html
 - title: Monte Carlo Methods
-  link: /about.html
+  link: /reinforcementLearning/monteCarloMethods.html
 - title: Temporal Difference
-  link: /test.html
+  link: /reinforcementLearning/temporalDifference.html
