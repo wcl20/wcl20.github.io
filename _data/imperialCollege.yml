@@ -56,5 +56,15 @@
       link: /downloads/Reinforcement Learning.pdf
     - title: Session Types
       link: /downloads/Session Types.pdf
+- year: Machine Learning
+  subjects:
+    - title: Linear Regression
+      link: /downloads/LinearRegression.pdf
+    - title: Logistic Regression
+      link: /downloads/LogisticRegression.pdf
+    - title: Deep Learning I
+      link: /downloads/DeepLearningI.pdf
+    - title: Deep Learning II
+      link: /downloads/DeepLearningII.pdf
 
 
