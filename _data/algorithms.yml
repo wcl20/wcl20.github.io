@@ -1,5 +1,7 @@
 - category: Array
   problems:
+    - title: Spiral Traverse
+      link: /algorithms/spiralTraverse.html
     - title: Three Sum
       link: /algorithms/threeSum.html
     - title: Two Sum
@@ -14,6 +16,10 @@
       link: /algorithms/kadanesAlgorithm.html
     - title: Levenshtein Distance
       link: /algorithms/levenshteinDistance.html
+- category: Graphs
+  problems:
+    - title: Breadth First Search
+      link: /algorithms/breadthFirstSearch.html
 - category: Linked List
   problems:
     - title: Floyd's Algorithm
@@ -34,6 +40,8 @@
       link: /algorithms/bubbleSort.html
     - title: Insertion Sort
       link: /algorithms/insertionSort.html
+    - title: Merge Sort
+      link: /algorithms/mergeSort.html
     - title: Selection Sort
       link: /algorithms/selectionSort.html
 - category: Strings
