@@ -14,6 +14,8 @@
   problems:
     - title: Kadane's Algorithm
       link: /algorithms/kadanesAlgorithm.html
+    - title: Knapsack Problem
+      link: /algorithms/knapsackProblem.html
     - title: Levenshtein Distance
       link: /algorithms/levenshteinDistance.html
 - category: Graphs
@@ -34,6 +36,8 @@
       link: /algorithms/binarySearch.html
     - title: Shifted Binary Search
       link: /algorithms/shiftedBinarySearch.html
+    - title: Third Maximum Number
+      link: /algorithms/thirdMaximumNumber.html
 - category: Sorting
   problems:
     - title: Bubble Sort
@@ -44,6 +48,8 @@
       link: /algorithms/mergeSort.html
     - title: Selection Sort
       link: /algorithms/selectionSort.html
+    - title: Quick Sort
+      link: /algorithms/quickSort.html
 - category: Strings
   problems:
     - title: Longest Palindromic Substring
