@@ -10,6 +10,8 @@
   problems:
     - title: Closest Value in BST
       link: /algorithms/closestValueInBST.html
+    - title: Path Sum
+      link: /algorithms/pathSum.html
 - category: Dynamic Programming
   problems:
     - title: Kadane's Algorithm
@@ -26,6 +28,10 @@
   problems:
     - title: Floyd's Algorithm
       link: /algorithms/floydsAlgorithm.html
+    - title: Reverse Linked List
+      link: /algorithms/reverseLinkedList.html
+    - title: Single Linked List
+      link: /algorithms/singleLinkedList.html
 - category: Recursion
   problems:
     - title: Fibonacci Numbers
