@@ -46,10 +46,16 @@
     - title: Robotics
 - year: Year 4
   subjects:
+    - title: Advanced Robotics
+      link: /downloads/Advanced Robotics.pdf
     - title: Concurrency
       link: /downloads/Concurrency.pdf
+    - title: Deep Learning
+      link: /downloads/Deep Learning.pdf
     - title: Machine Arguing
       link: /downloads/Machine Arguing.pdf
+    - title: Machine Learning for Imaging
+      link: /downloads/Machine Learning for Imaging.pdf
     - title: Mathematics for Machine Learning
       link: /downloads/Mathematics For Machine Learning.pdf
     - title: Reinforcement Learning
@@ -66,5 +72,3 @@
       link: /downloads/DeepLearningI.pdf
     - title: Deep Learning II
       link: /downloads/DeepLearningII.pdf
-
-
