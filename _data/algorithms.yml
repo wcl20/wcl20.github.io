@@ -24,6 +24,8 @@
   problems:
     - title: Breadth First Search
       link: /algorithms/breadthFirstSearch.html
+    - title: Depth First Search
+      link: /algorithms/depthFirstSearch.html
 - category: Linked List
   problems:
     - title: Floyd's Algorithm
@@ -36,6 +38,8 @@
   problems:
     - title: Fibonacci Numbers
       link: /algorithms/fibonacciNumbers.html
+    - title: Powerset
+      link: /algorithms/powerset.html
 - category: Searching
   problems:
     - title: Binary Search
@@ -56,6 +60,10 @@
       link: /algorithms/selectionSort.html
     - title: Quick Sort
       link: /algorithms/quickSort.html
+- category: Stacks
+  problems:
+    - title: Balanced Brackets
+      link: /algorithms/balancedBrackets.html
 - category: Strings
   problems:
     - title: Longest Palindromic Substring

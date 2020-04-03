@@ -112,7 +112,7 @@ def breadthFirstSearch(matrix: List[List[int]], start: (int, int)):
         # Get first item in queue
         x, y = queue.pop(0)
         # Check x, y is in bound and not visited
-        if m <= x < 0 or n <= y < 0 or visited[x][y]:
+        if m <= x or x < 0 or n <= y or y < 0 or visited[x][y]:
             continue
         # Mark node as visited
         visited[x][y] = True
