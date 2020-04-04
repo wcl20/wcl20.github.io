@@ -30,6 +30,8 @@
   problems:
     - title: Floyd's Algorithm
       link: /algorithms/floydsAlgorithm.html
+    - title: Remove Kth Node From End
+      link: /algorithms/removekthNodeFromEnd.html
     - title: Reverse Linked List
       link: /algorithms/reverseLinkedList.html
     - title: Single Linked List
@@ -44,6 +46,8 @@
   problems:
     - title: Binary Search
       link: /algorithms/binarySearch.html
+    - title: Search Sorted Matrix
+      link: /algorithms/searchSortedMatrix.html
     - title: Shifted Binary Search
       link: /algorithms/shiftedBinarySearch.html
     - title: Third Maximum Number
@@ -66,6 +70,8 @@
       link: /algorithms/balancedBrackets.html
 - category: Strings
   problems:
+    - title: Caesar Cipher
+      link: /algorithms/caesarCipher.html
     - title: Longest Palindromic Substring
       link: /algorithms/longestPalindromicSubstring.html
     - title: Palindrome Check
