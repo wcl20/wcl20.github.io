@@ -20,12 +20,18 @@
       link: /algorithms/knapsackProblem.html
     - title: Levenshtein Distance
       link: /algorithms/levenshteinDistance.html
+    - title: Maximum Subset Sum Without Adjacent 
+      link: /algorithms/maximumSubsetSumWithoutAdjacent.html
 - category: Graphs
   problems:
     - title: Breadth First Search
       link: /algorithms/breadthFirstSearch.html
     - title: Depth First Search
       link: /algorithms/depthFirstSearch.html
+- category: Heaps
+  problems:
+    - title: Heap Construction
+      link: /algorithms/heapConstruction.html
 - category: Linked List
   problems:
     - title: Floyd's Algorithm
@@ -34,7 +40,7 @@
       link: /algorithms/removekthNodeFromEnd.html
     - title: Reverse Linked List
       link: /algorithms/reverseLinkedList.html
-    - title: Single Linked List
+    - title: Linked List Construction
       link: /algorithms/singleLinkedList.html
 - category: Recursion
   problems:
@@ -56,6 +62,8 @@
   problems:
     - title: Bubble Sort
       link: /algorithms/bubbleSort.html
+    - title: Heap Sort
+      link: /algorithms/heapSort.html
     - title: Insertion Sort
       link: /algorithms/insertionSort.html
     - title: Merge Sort
