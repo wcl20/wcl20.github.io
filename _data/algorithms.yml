@@ -10,6 +10,14 @@
   problems:
     - title: Closest Value in BST
       link: /algorithms/closestValueInBST.html
+    - title: Constructing BST From Preorder
+      link: /algorithms/constructingBSTFromPreorder.html
+    - title: Validate BST
+      link: /algorithms/validateBST.html
+- category: Binary Trees
+  problems:
+    - title: Level Order Traversal
+      link: /algorithms/levelOrderTraversal.html
     - title: Path Sum
       link: /algorithms/pathSum.html
 - category: Dynamic Programming
@@ -20,7 +28,7 @@
       link: /algorithms/knapsackProblem.html
     - title: Levenshtein Distance
       link: /algorithms/levenshteinDistance.html
-    - title: Maximum Subset Sum Without Adjacent 
+    - title: Maximum Subset Sum Without Adjacent
       link: /algorithms/maximumSubsetSumWithoutAdjacent.html
 - category: Graphs
   problems:
