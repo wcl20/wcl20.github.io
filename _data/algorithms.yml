@@ -30,6 +30,10 @@
       link: /algorithms/levenshteinDistance.html
     - title: Maximum Subset Sum Without Adjacent
       link: /algorithms/maximumSubsetSumWithoutAdjacent.html
+    - title: Minimum Coins To Make Change
+      link: /algorithms/minimumCoinsToMakeChange.html
+    - title: Number of Ways To Make Change
+      link: /algorithms/numberOfWaysToMakeChange.html
 - category: Graphs
   problems:
     - title: Breadth First Search
@@ -44,6 +48,8 @@
   problems:
     - title: Floyd's Algorithm
       link: /algorithms/floydsAlgorithm.html
+    - title: Merge Linked List
+      link: /algorithms/mergeLinkedList.html
     - title: Remove Kth Node From End
       link: /algorithms/removekthNodeFromEnd.html
     - title: Reverse Linked List
