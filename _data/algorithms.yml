@@ -12,6 +12,8 @@
       link: /algorithms/closestValueInBST.html
     - title: Constructing BST From Preorder
       link: /algorithms/constructingBSTFromPreorder.html
+    - title: Lowest Common Ancestor
+      link: /algorithms/lowestCommonAncestor.html
     - title: Validate BST
       link: /algorithms/validateBST.html
 - category: Binary Trees
@@ -28,6 +30,8 @@
       link: /algorithms/knapsackProblem.html
     - title: Levenshtein Distance
       link: /algorithms/levenshteinDistance.html
+    - title: Longest Common Subsequence
+      link: /algorithms/longestCommonSubsequence.html
     - title: Maximum Subset Sum Without Adjacent
       link: /algorithms/maximumSubsetSumWithoutAdjacent.html
     - title: Minimum Coins To Make Change
@@ -94,6 +98,8 @@
   problems:
     - title: Caesar Cipher
       link: /algorithms/caesarCipher.html
+    - title: Group Anagrams
+      link: /algorithms/groupAnagrams.html
     - title: Longest Palindromic Substring
       link: /algorithms/longestPalindromicSubstring.html
     - title: Palindrome Check
