@@ -1,5 +1,9 @@
 - category: Array
   problems:
+    - title: Maximum In Sliding Window
+      link: /algorithms/maximumInSlidingWindow.html
+    - title: Move Elements To End
+      link: /algorithms/moveElementsToEnd.html
     - title: Spiral Traverse
       link: /algorithms/spiralTraverse.html
     - title: Three Sum
@@ -20,6 +24,8 @@
   problems:
     - title: Level Order Traversal
       link: /algorithms/levelOrderTraversal.html
+    - title: Maximum Path Sum
+      link: /algorithms/maximumPathSum.html
     - title: Path Sum
       link: /algorithms/pathSum.html
 - category: Dynamic Programming
