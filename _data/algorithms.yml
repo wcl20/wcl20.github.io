@@ -22,6 +22,8 @@
       link: /algorithms/validateBST.html
 - category: Binary Trees
   problems:
+    - title: Invert Binary Tree
+      link: /algorithms/invertBinaryTree.html
     - title: Level Order Traversal
       link: /algorithms/levelOrderTraversal.html
     - title: Maximum Path Sum
@@ -44,6 +46,8 @@
       link: /algorithms/minimumCoinsToMakeChange.html
     - title: Number of Ways To Make Change
       link: /algorithms/numberOfWaysToMakeChange.html
+    - title: Water Area
+      link: /algorithms/waterArea.html
 - category: Graphs
   problems:
     - title: Breadth First Search
@@ -70,6 +74,8 @@
   problems:
     - title: Fibonacci Numbers
       link: /algorithms/fibonacciNumbers.html
+    - title: Permutations
+      link: /algorithms/permutations.html
     - title: Powerset
       link: /algorithms/powerset.html
 - category: Searching
