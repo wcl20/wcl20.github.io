@@ -2,8 +2,12 @@
   problems:
     - title: Maximum In Sliding Window
       link: /algorithms/maximumInSlidingWindow.html
+    - title: Monotonic Array
+      link: /algorithms/monotonicArray.html
     - title: Move Elements To End
       link: /algorithms/moveElementsToEnd.html
+    - title: Minimum Absolute Difference
+      link: /algorithms/minimumAbsoluteDifference.html
     - title: Spiral Traverse
       link: /algorithms/spiralTraverse.html
     - title: Three Sum
@@ -16,8 +20,6 @@
       link: /algorithms/closestValueInBST.html
     - title: Constructing BST From Preorder
       link: /algorithms/constructingBSTFromPreorder.html
-    - title: Lowest Common Ancestor
-      link: /algorithms/lowestCommonAncestor.html
     - title: Validate BST
       link: /algorithms/validateBST.html
 - category: Binary Trees
@@ -26,6 +28,8 @@
       link: /algorithms/invertBinaryTree.html
     - title: Level Order Traversal
       link: /algorithms/levelOrderTraversal.html
+    - title: Lowest Common Ancestor
+      link: /algorithms/lowestCommonAncestor.html
     - title: Maximum Path Sum
       link: /algorithms/maximumPathSum.html
     - title: Path Sum
@@ -114,5 +118,7 @@
       link: /algorithms/groupAnagrams.html
     - title: Longest Palindromic Substring
       link: /algorithms/longestPalindromicSubstring.html
+    - title: Longest Substring Without Duplication
+      link: /algorithms/longestSubstringWithoutDuplication.html
     - title: Palindrome Check
       link: /algorithms/palindromeCheck.html
