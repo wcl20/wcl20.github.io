@@ -44,6 +44,8 @@
       link: /algorithms/levenshteinDistance.html
     - title: Longest Common Subsequence
       link: /algorithms/longestCommonSubsequence.html
+    - title: Longest Increasing Subsequence
+      link: /algorithms/longestIncreasingSubsequence.html
     - title: Maximum Subset Sum Without Adjacent
       link: /algorithms/maximumSubsetSumWithoutAdjacent.html
     - title: Minimum Coins To Make Change
@@ -58,6 +60,10 @@
       link: /algorithms/breadthFirstSearch.html
     - title: Depth First Search
       link: /algorithms/depthFirstSearch.html
+- category: Greedy Algorithms
+  problems:
+    - title: Minimum Number of Jumps
+      link: /algorithms/minimumNumberOfJumps.html
 - category: Heaps
   problems:
     - title: Heap Construction
