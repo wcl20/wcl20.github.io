@@ -1,5 +1,7 @@
 - category: Array
   problems:
+    - title: Longest Mountain
+      link: /algorithms/longestMountain.html
     - title: Maximum In Sliding Window
       link: /algorithms/maximumInSlidingWindow.html
     - title: Monotonic Array
@@ -34,6 +36,8 @@
       link: /algorithms/maximumPathSum.html
     - title: Path Sum
       link: /algorithms/pathSum.html
+    - title: Same Tree
+      link: /algorithms/sameTree.html
 - category: Dynamic Programming
   problems:
     - title: Kadane's Algorithm
@@ -112,10 +116,12 @@
       link: /algorithms/selectionSort.html
     - title: Quick Sort
       link: /algorithms/quickSort.html
-- category: Stacks
+- category: Stacks and Queues
   problems:
     - title: Balanced Brackets
       link: /algorithms/balancedBrackets.html
+    - title: Stack Using Queues
+      link: /algorithms/stackUsingQueues.html
 - category: Strings
   problems:
     - title: Caesar Cipher
