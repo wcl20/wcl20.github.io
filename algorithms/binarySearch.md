@@ -21,7 +21,7 @@ def binarySearch(array: List[int], target: int) -> int:
     # Search in range
     while left <= right:
         # Calculate midpoint
-        mid = left + (right - left) // 2
+        mid = (left + right) // 2
         # Get value at midpoint
         value = array[mid]
         # If value found ...
@@ -55,7 +55,7 @@ def binarySearchHelper(array: List[int], target: int, left: int, right: int) -> 
         # Element is not in array
         return -1
     # Calculate midpoint
-    mid = left + (right - left) // 2
+    mid = (left + right) // 2
     # Get value at midpoint
     value = array[mid]
     # If value found ...

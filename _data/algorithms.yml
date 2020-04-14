@@ -28,6 +28,8 @@
   problems:
     - title: Invert Binary Tree
       link: /algorithms/invertBinaryTree.html
+    - title: Iterative In-Order Traversal
+      link: /algorithms/iterativeInOrderTraversal.html
     - title: Level Order Traversal
       link: /algorithms/levelOrderTraversal.html
     - title: Lowest Common Ancestor
@@ -96,12 +98,16 @@
   problems:
     - title: Binary Search
       link: /algorithms/binarySearch.html
+    - title: Search Range
+      link: /algorithms/searchRange.html
     - title: Search Sorted Matrix
       link: /algorithms/searchSortedMatrix.html
     - title: Shifted Binary Search
       link: /algorithms/shiftedBinarySearch.html
     - title: Third Maximum Number
       link: /algorithms/thirdMaximumNumber.html
+    - title: Quickselect
+      link: /algorithms/quickselect.html
 - category: Sorting
   problems:
     - title: Bubble Sort
