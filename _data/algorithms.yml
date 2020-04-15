@@ -134,9 +134,15 @@
       link: /algorithms/caesarCipher.html
     - title: Group Anagrams
       link: /algorithms/groupAnagrams.html
+    - title: Interleaving String
+      link: /algorithms/interleavingString.html
     - title: Longest Palindromic Substring
       link: /algorithms/longestPalindromicSubstring.html
     - title: Longest Substring Without Duplication
       link: /algorithms/longestSubstringWithoutDuplication.html
     - title: Palindrome Check
       link: /algorithms/palindromeCheck.html
+- category: Tries
+  problems:
+    - title: Trie Construction
+      link: /algorithms/trieConstruction.html
