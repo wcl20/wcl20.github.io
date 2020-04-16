@@ -26,6 +26,8 @@
       link: /algorithms/validateBST.html
 - category: Binary Trees
   problems:
+    - title: Flatten Binary Tree
+      link: /algorithms/flattenBinaryTree.html
     - title: Invert Binary Tree
       link: /algorithms/invertBinaryTree.html
     - title: Iterative In-Order Traversal
@@ -128,6 +130,8 @@
       link: /algorithms/balancedBrackets.html
     - title: Stack Using Queues
       link: /algorithms/stackUsingQueues.html
+    - title: Queue Using Stacks
+      link: /algorithms/queueUsingStacks.html
 - category: Strings
   problems:
     - title: Caesar Cipher
@@ -144,5 +148,7 @@
       link: /algorithms/palindromeCheck.html
 - category: Tries
   problems:
+    - title: Boggle Board
+      link: /algorithms/boggleBoard.html
     - title: Trie Construction
       link: /algorithms/trieConstruction.html
