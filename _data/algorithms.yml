@@ -80,6 +80,8 @@
   problems:
     - title: Floyd's Algorithm
       link: /algorithms/floydsAlgorithm.html
+    - title: LRU Cache
+      link: /algorithms/lruCache.html
     - title: Merge Linked List
       link: /algorithms/mergeLinkedList.html
     - title: Remove Kth Node From End
@@ -146,6 +148,8 @@
       link: /algorithms/longestSubstringWithoutDuplication.html
     - title: Palindrome Check
       link: /algorithms/palindromeCheck.html
+    - title: Regex Matching
+      link: /algorithms/regexMatching.html
 - category: Tries
   problems:
     - title: Boggle Board
